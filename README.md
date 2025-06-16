@@ -1,7 +1,7 @@
-# pe-rul-sl-lib
+## pe-rul-sl-lib
 Code for physics-enhanced remaining-useful-life of second-life lithium-ion batteries
 
-The repository contains:
+# The repository contains:
 
 • Code for RUL Prediction/Cluster*_model.ipynb – reproducible training and inference notebooks for the three usage clusters identified in the study.
 
